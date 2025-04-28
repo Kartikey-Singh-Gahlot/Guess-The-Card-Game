@@ -169,6 +169,10 @@ button:hover{
   .scoreBoard{
     font-size: 20px;
   }
+  #screen{
+    height : 100px;
+    width : 120px;
+  }
 }
 
 
